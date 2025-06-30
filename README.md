@@ -43,8 +43,8 @@ bitsandbytes>=0.39.0
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/discourse-guided-summarization.git
-cd discourse-guided-summarization
+git clone https://github.com/minimilist/TheraFuse.git
+cd TheraFuse
 ```
 
 2. **Create a virtual environment**
@@ -266,8 +266,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions and support:
-- **Email**: your.email@domain.com
-- **GitHub Issues**: [Open an issue](https://github.com/your-username/discourse-guided-summarization/issues)
+- **Email**: ankit201921@gmail.com
+- **GitHub Issues**: [Open an issue](https://github.com/minimilist/TheraFuse/issues)
 
 ## 🔄 Version History
 
